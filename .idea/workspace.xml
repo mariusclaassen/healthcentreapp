@@ -72,8 +72,8 @@
       <file leaf-file-name="HealthCentreController.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/javafx/HealthCentreController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="186" selection-start-line="186" selection-end-line="186" />
+            <state relative-caret-position="561">
+              <caret line="205" column="10" lean-forward="true" selection-start-line="205" selection-start-column="10" selection-end-line="205" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -111,6 +111,7 @@
     </FindUsagesManager>
   </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -127,7 +128,7 @@
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="width" value="1386" />
     <option name="height" value="788" />
@@ -182,7 +183,7 @@
     <property name="last_opened_file_path" value="$USER_HOME$/SceneBuilder/SceneBuilder.exe" />
     <property name="recentsLimit" value="5" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="com.gluonhq.plugin.intellij.options.Options" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -307,7 +308,7 @@
     <option name="totallyTimeSpent" value="1302000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="0" width="1386" height="788" extended-state="1" />
+    <frame x="-8" y="0" width="1386" height="788" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -746,8 +747,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javafx/HealthCentreController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="186" selection-start-line="186" selection-end-line="186" />
+        <state relative-caret-position="561">
+          <caret line="205" column="10" lean-forward="true" selection-start-line="205" selection-start-column="10" selection-end-line="205" selection-end-column="10" />
         </state>
       </provider>
     </entry>
