@@ -1,0 +1,32 @@
+.mainContainer {
+-fx-background-color: linear-gradient(violet, pink, violet);
+}
+
+.labelPrimary {
+-fx-font-family: "Century Gothic";
+-fx-font-size: 20;
+-fx-font-weight: bold;
+}
+
+.labelsSecondary {
+-fx-font-family: "Century Gothic";
+-fx-font-size: 12;
+-fx-font-weight: bold;
+}
+
+.buttons {
+-fx-background-color: purple;
+-fx-background-radius: 50;
+-fx-font-family: "Century Gothic";
+-fx-font-size: 13;
+-fx-text-fill: white;
+-fx-font-weight: bold;
+}
+
+.labelsOutput {
+-fx-background-color: white;
+-fx-font-family: "Century Gothic";
+-fx-font-size: 13;
+-fx-text-fill: black;
+-fx-font-weight: bold;
+}
